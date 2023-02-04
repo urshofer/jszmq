@@ -1,4 +1,4 @@
-import * as WebSocket from 'isomorphic-ws'
+import WebSocket from 'isomorphic-ws'
 import {URL} from 'url'
 import {toNumber} from 'lodash'
 import { EventEmitter } from 'events'

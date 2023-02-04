@@ -1,5 +1,5 @@
 import { EventEmitter } from 'events'
-import * as WebSocket from 'isomorphic-ws'
+import WebSocket from 'isomorphic-ws'
 import {Buffer} from 'buffer'
 import SocketOptions from './socketOptions'
 import {isString} from 'lodash'
